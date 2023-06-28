@@ -26,17 +26,17 @@ _As tecnologias usadas neste projeto, foram as seguites:_
 
 * Docker
 * NodeJS
-* ReactJS
+
 
 ## Relatório
 Estão adicionados um documento por capítulo
 
 ### Apresentação da API
-* Capítulo 1: [Apresentação da API](documentos_P2/c1.md)
+* Capítulo 1: [Apresentação da API](documentos_P1/c1.md)
 ### Recursos
-* Capítulo 2: [Recursos Disponíveis](documentos_P2/c2.md)
+* Capítulo 2: [Recursos Disponíveis](documentos_P1/c2.md)
 ### Produto
-* Capítulo 3: [Resultado Final](documentos_P2/c3.md)
+* Capítulo 3: [Resultado Final](documentos_P1/c3.md)
 
 <br>
 
