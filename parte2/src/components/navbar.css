@@ -1,0 +1,42 @@
+.button {
+    display: inline-block;
+    padding: 5px 20px ;
+    border: none;
+    border-radius: 4px;
+    background-color: #646464;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-left: 3px;
+
+}
+
+.button:hover {
+    background-color: #2e2d2d;
+}
+
+
+
+.toolbar {
+    background-color: black;
+    color: black;
+}
+
+.toolbar button {
+    display: inline-block;
+    padding: 6px 10px ;
+    border: none;
+    border-radius: 4px;
+    background-color: #646464;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-left: 3px;
+}
+
+
+.toolbar button:hover {
+    background-color: #2e2d2d;
+}
