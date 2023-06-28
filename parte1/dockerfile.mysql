@@ -1,0 +1,13 @@
+# Use an official MySQL 8.0 image as the base
+
+# Use an official MySQL 8.0 image as the base image
+FROM mysql:8.0
+
+# Set the root password for MySQL (replace 'your_password' with your desired password)
+ENV MYSQL_ROOT_PASSWORD=12345678
+
+# Remove the --initialize-insecure option
+CMD ["mysqld"]
+
+# Expose the default MySQL port
+EXPOSE 3306
