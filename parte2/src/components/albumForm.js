@@ -58,7 +58,6 @@ const AlbumForm = () => {
           </button>
           {isCreating && (
             <div>
-              <h3>Create New Album</h3>
               <form
                 onSubmit={(e) => {
                   e.preventDefault();

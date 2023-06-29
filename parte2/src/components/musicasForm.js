@@ -63,7 +63,6 @@ const MusicasForm = () => {
           </button>
           {isCreating && (
             <div>
-              <h3>Create New Musicas</h3>
               <form
                 onSubmit={(e) => {
                   e.preventDefault();

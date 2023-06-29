@@ -57,7 +57,6 @@ const ArtistaForm = () => {
       </button>
       {isCreating && (
         <div>
-          <h3>Creating . . .</h3>
           <form
             onSubmit={(e) => {
               e.preventDefault();
