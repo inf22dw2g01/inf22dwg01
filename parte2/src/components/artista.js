@@ -110,11 +110,10 @@ const Artista = () => {
       <h2>Página de Artista</h2>
       {artistaData.length === 0 ? (
         <div>
-          <p>Carregando os dados...</p>
+          <p>A carregar os dados...</p>
         </div>
       ) : (
         <div className="table-container">
-          <h3>Os dados foram carregados com sucesso!</h3>
           <Link to="/artista-form">
              <button className="create-button-artista">Create Artista</button>
           </Link>
